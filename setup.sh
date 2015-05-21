@@ -16,4 +16,4 @@ rm ghost-0.6.3.zip
 
 # Install
 sudo npm install --production
-sudo npm start --production
+sudo inpm start --production
